@@ -1,0 +1,15 @@
+ch5 structs OK
+ch6 enums e pattern matching  OK
+ch7 gestione progetti-librerie sec 2-MODULE CHEAT SHEET!!
+ch8 VECTORS E HASHMAPS
+(ch9) error handling
+(ch10) generic data types
+(ch11) how to write tests
+ch12 PROGETTO CON LETTURA FILE
+(ch13) pro-moves e loop vs iterators-performance
+(ch14)
+(ch15) smart pointers
+ch16 PARALLEL PROGRAMMING
+ch17 PROGRAMMAZIONE AD OGGETTI
+(ch18) Patterns and matching
+19(macros)-20-21 too much information (sembra)
